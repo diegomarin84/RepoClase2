@@ -1,0 +1,8 @@
+Versión 1 10sep2024
+
+git status
+git add
+git commit -m
+git log
+git Switch
+git checkout codigo
