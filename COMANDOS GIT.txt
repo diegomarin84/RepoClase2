@@ -9,4 +9,4 @@ git checkout código
 git config --global -l 'revisar configuración del git
 git config --global.user.email "micorreo" ' cambiar correo
 git remote add origin https://github.com/diegomarin84/RepoClase2.git enviar un repo hacia GitHub
-
+git push 
