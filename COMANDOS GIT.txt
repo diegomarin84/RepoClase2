@@ -13,3 +13,15 @@ git push
 
 ETIQUETAS DE HTML 5 Y DE VARIOS LENGUAJES
 https://www.w3schools.com/tags/tag_comment.asp
+
+git clone https://github.com/diegomarin84/RepoClase2.git 'traer un repositorio de GitHub a git bash
+
+ENVIAR LA INFOR AL GITHUB
+git add .
+// Este comando te permitirá guardar tus cambios en Git.
+
+git commmit -m "tuMensaje"
+// Este comando te permitirá darle un título a tus cambios.
+
+git push
+// Este comando subirá tus cambios al repositorio de GitHub
